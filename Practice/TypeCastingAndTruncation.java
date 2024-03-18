@@ -1,3 +1,4 @@
+package Practice;
 public class TypeCastingAndTruncation {
     public static void main(String []args) {
         int num1  ;
